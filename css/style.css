@@ -343,11 +343,11 @@ h1.size-50 {
 .timeline-event:hover .timeline-event-icon {
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
-  background-color: #450c12;
+  background-color: #311E25;
 }
 
 .timeline-event:hover .timeline-event-thumbnail {
-  box-shadow: inset 40em 0 0 0 #450c12;
+  box-shadow: inset 40em 0 0 0 #8b576a;
 }
 
 .timeline-event-copy {
@@ -5519,7 +5519,7 @@ button.bg-danger:focus {
   background-color: #bd2130 !important; }
 
 .bg-light {
-  background-color: #f8f9fa !important; }
+  background-color: #c2a3a6 !important; }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
@@ -9121,7 +9121,7 @@ h1, h2, h3, h4, h5,
       .project .text h3 a {
         color: #fff; }
     .project .text span {
-      color:  #450c12;
+      color: #e4c9cc;
       text-transform: uppercase;
       letter-spacing: 1px;
       font-weight: 600; }
@@ -9287,7 +9287,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #450c12;
-  padding: 7em 0;
+  padding: 1em 0;
   z-index: 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
